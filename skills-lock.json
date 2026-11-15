@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "skills": {
+    "app-launch-checklist": {
+      "source": "awaiden/skills",
+      "sourceType": "github",
+      "skillPath": "skills/app-launch-checklist/SKILL.md",
+      "computedHash": "9c35e64a6779cec10041c77be15519eea552744347e1313984d638ebba36e7e2"
+    },
+    "better-auth-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "skillPath": "better-auth/best-practices/SKILL.md",
+      "computedHash": "2773c3687f2cf96d659049ebf2d8c86058a33541b09360712df0dc6b1404c403"
+    },
+    "better-auth-security-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "skillPath": "security/SKILL.md",
+      "computedHash": "36e9710eaa13c61c00bec00a4902fdc6ed829e6de13127238ae57494e93c1d9d"
+    },
+    "create-auth": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "skillPath": "better-auth/create-auth/SKILL.md",
+      "computedHash": "6f68253a5ab812aa8c9b70c57609aca763093a594e3b07163142e0fa7d64904a"
+    },
+    "email-and-password-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "skillPath": "better-auth/emailAndPassword/SKILL.md",
+      "computedHash": "407c1244202876daa748818ed41dc55afde1b3f7aec48ae3a1f1c8a7ee40465e"
+    },
+    "hono": {
+      "source": "honojs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/hono/SKILL.md",
+      "computedHash": "b9aa6ed86fce02216f2f43c4b5c651ba0055f0785a568d84fc446721fc832172"
+    },
+    "hono-jsx": {
+      "source": "honojs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/hono-jsx/SKILL.md",
+      "computedHash": "1654a017075171f1c22809bd897bfe2eb698129ec67664511825448c3d897d27"
+    },
+    "hono-void": {
+      "source": "honojs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/hono-void/SKILL.md",
+      "computedHash": "c3204abed1d0a65d245080431f683650171e685f2b81ab86522547d1691aa4ea"
+    },
+    "organization-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "skillPath": "better-auth/organization/SKILL.md",
+      "computedHash": "e5b1238c3b62c789918fe397ed52787742e50944343de33f459629f29b0fe922"
+    },
+    "pre-release-checklist": {
+      "source": "awaiden/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pre-release-checklist/SKILL.md",
+      "computedHash": "bc7150bd26fda681ee31925a8ee223084040a4e83bced4f037f104f4fe2d7d0f"
+    },
+    "two-factor-authentication-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "skillPath": "better-auth/twoFactor/SKILL.md",
+      "computedHash": "89ca7fde92a69aec2cf7407d29058c5428e17d228e2578c79e0129d128524f38"
+    }
+  }
+}
