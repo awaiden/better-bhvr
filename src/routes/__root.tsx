@@ -47,15 +47,26 @@ function RootComponent() {
                   Home
                 </Link>
                 {session && (
-                  <Link
-                    to="/dashboard"
-                    className="text-muted-foreground transition hover:text-foreground"
-                    activeProps={{
-                      className: "text-foreground underline underline-offset-4",
-                    }}
-                  >
-                    Dashboard
-                  </Link>
+                  <>
+                    <Link
+                      to="/dashboard"
+                      className="text-muted-foreground transition hover:text-foreground"
+                      activeProps={{
+                        className: "text-foreground underline underline-offset-4",
+                      }}
+                    >
+                      Dashboard
+                    </Link>
+                    <Link
+                      to="/account"
+                      className="text-muted-foreground transition hover:text-foreground"
+                      activeProps={{
+                        className: "text-foreground underline underline-offset-4",
+                      }}
+                    >
+                      Account
+                    </Link>
+                  </>
                 )}
                 <Link
                   to="/about"
